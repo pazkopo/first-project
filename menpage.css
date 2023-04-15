@@ -44,15 +44,45 @@ div.firstmanimg{
     flex-direction: column;
     
 }
-img.firstmanimg{
-    width: 30%;
-    height: 20%;
+.firstmanproduct{
+    border: 13px solid #A4150B;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
 }
-img.secmanimg{
-    width: 50%;
-    height: 50%;
+div.firstmanpic{
+    display: flex;
 }
-img.thirdmanimg{
-    width: 50%;
-    height: 50%;
+div.firstmantext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.secondmanproduct{
+    border: 13px solid #A4150B;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+div.secmanpic{
+    display: flex;
+}
+div.secmantext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.thirdmanproduct{
+    border: 13px solid #A4150B;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+div.thirdmanpic{
+    display: flex;
+}
+div.thirdmantext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
